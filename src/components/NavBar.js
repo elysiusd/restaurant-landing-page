@@ -21,8 +21,8 @@ function NavBar() {
                 <div className="flex m-auto  max-w-[1240px] justify-between items-center px-4 sm:px-6 lg:px-">
                     {/* Logo Section */}
                     <div className="flex items-center">
-                            <h1 className="font-bold text-3xl">
-                            Name <span className="text-4xl text-green-700">.</span>
+                            <h1 className="font-bold text-3xl"> <a className="" href="">
+                            Name</a> <span className="text-4xl text-green-700">.</span>
                             </h1>
                     </div>
 
