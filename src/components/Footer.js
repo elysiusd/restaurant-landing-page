@@ -40,7 +40,7 @@ function Footer() {
             <hr/>
             <div className=' text-center py-5'>
                 <p>© Copyright Yummy All Rights Reserved</p>
-                <p>Designed by <a href='https://github.com/oduagbondestiny' className='text-bold text-green-500'>Destiny</a> </p>
+                <p>Designed by <a href='https://www.upwork.com/freelancers/~01dcf08f258fd47f57' className='text-bold text-green-500'>Destiny</a> </p>
             </div>
             
         </div>
